@@ -5,12 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
-<em>If you do not have journal access for one of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em>
+<em>If you do not have journal access for any of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em>
 
 <table>
   
   <tr><th>2019</th><td>
-    <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04228d" target="_blank">Schreck, J. S., <u>Coley, C. W.</u>, Bishop, K. J. M. &ldquo;Learning retrosynthetic planning through self-play&rdquo;</a> <a style="color:blue" href="https://arxiv.org/abs/1901.06569" target="_blank">[preprint]</a>
+    <a href="https://science.sciencemag.org/content/365/6453/eaax1566" target="_blank">
+      <u>Coley, C. W.</u>*, Thomas III, D. A.*, Lummiss, J. A. M.*, Jaworski, J. N., Breen, C. P., Schultz, V., Hart, T., Fishman, J. S., Rogers, L., Gao, H., Hicklin, R. W., Plehiers, P. P., Byington, J., Piotti, J. S., Green, W. H., Hart, A. J., Jamison, T. F., Jensen, K. F. 
+      &ldquo;A robotic platform for flow synthesis of organic compounds informed by AI planning&rdquo; 
+      <em>Science </em>
+      <strong>365</strong>(6453), eaax1566  (<strong>2019</strong>).
+    </a> 
+    <a style="color:blue" href="http://news.mit.edu/2019/automate-molecule-production-ai-0808" target="_blank">[MIT press] </a>
+    <a style="color:blue" href="https://cen.acs.org/synthesis/Automating-synthesis-planning-execution/97/i32" target="_blank">[C&amp;EN press] </a>
+    <a style="color:blue" href="https://www.chemistryworld.com/news/are-synthetic-chemists-out-of-a-job-as-ai-meets-automation/3010812.article" target="_blank">[Chemistry World press] </a>
+  </td></tr>
+
+  <tr><th></th><td>
+    <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00237" target="_blank">
+      Yang, K.*, Swanson, K.*, Jin, W., <u>Coley, C. W.</u>, Eiden, P., Gao, H., Guzman-Perez, A., Hopper, Tm., Kelley, B., Mathea, M., Palmer, A., Settels, V., Jaakkola, T., Jensen, K. F., Barzilay, R.
+      &ldquo;Analyzing learned molecular representations for property prediction&rdquo; 
+      <em>J. Chem. Inf. Model.</em> 
+      (<strong>2019</strong>).
+    </a> 
+    <a style="color:blue" href="https://arxiv.org/abs/1904.01561" target="_blank">[preprint]</a>
+  </td></tr>
+
+  <tr><th></th><td>
+    <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00286" target="_blank">
+      <u>Coley, C. W.</u>, Green, W. H., Jensen, K. F. 
+      &ldquo;RDChiral: an RDKit wrapper for handling stereochemistry in retrosynthetic template extraction and application&rdquo; 
+      <em>J. Chem. Inf. Model.</em>
+      <strong>59</strong>(6), 2529-2537 (<strong>2019</strong>).
+    </a> 
+    <a style="color:blue" href="https://chemrxiv.org/articles/RDChiral_An_RDKit_Wrapper_for_Handling_Stereochemistry_in_Retrosynthetic_Template_Extraction_and_Application/7949024" target="_blank">[preprint]</a>
+  </td></tr>
+
+
+  <tr><th></th><td>
+    <a href="https://pubs.acs.org/doi/full/10.1021/acscentsci.9b00055" target="_blank">Schreck, J. S., <u>Coley, C. W.</u>, Bishop, K. J. M. &ldquo;Learning retrosynthetic planning through simulated experience.&rdquo; <em>ACS Cent. Sci. </em><strong>5</strong>(6), 970-981 (<strong>2019</strong>).</a> <a style="color:blue" href="https://arxiv.org/abs/1901.06569" target="_blank">[preprint]</a>
   </td></tr>
 
 

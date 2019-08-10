@@ -19,8 +19,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Patents"
-    url: /patents/
+  # - title: "Patents"
+  #   url: /patents/
 
  
 

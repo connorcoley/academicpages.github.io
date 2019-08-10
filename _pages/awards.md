@@ -6,9 +6,17 @@ author_profile: true
 ---
 
 <table>
-  
-      <tr><th>2018</th><td>
-Forbes 30 Under 30 2019: Healthcare<br>
+      <tr><th>2019</th><td>
+CAS Future Leaders
+<a href="https://www.cas.org/about/futureleaders/2019-gallery#connor-w.-coley" target="_blank" style="color:blue">[Info]</a><br>
+  </td></tr>
+
+    <tr><th>2019</th><td>
+ACS CINF Division: Scholarship for Scientific Excellence<br>
+  </td></tr>
+
+      <tr><th>2019</th><td>
+Forbes 30 Under 30 2019: Healthcare 
 <a href="https://www.forbes.com/30-under-30/2019/healthcare/" target="_blank" style="color:blue">[Info]</a><br>
   </td></tr>
   
